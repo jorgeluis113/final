@@ -5,3 +5,6 @@ esto es añadido para ver el git show
 esto lo añado para la rama nueva
 
 esto es el ultimo commit de main
+
+ulala esto es de nueva rama para q lo mergee solo esta en nuevarama
+
